@@ -1,0 +1,332 @@
+Albina
+Alios
+Altringen
+Babsa
+Bacova
+Balint
+Balosesti
+Banloc
+Bara
+Barateaz
+Barna
+Batesti
+Bazos
+Bazosu Nou
+Beba Veche
+Becicherecu Mic
+Begheiu Mic
+Belint
+Bencecu de Jos
+Bencecu de Sus
+Berecuta
+Beregsau Mare
+Beregsau Mic
+Berini
+Bethausen
+Bichigi
+Biled
+Birda
+Blajova
+Bobda
+Bodo
+Bogda
+Boldur
+Botesti
+Botinesti
+Branesti
+Breazova
+Brestea
+Brestovat
+Bucovat
+Bucovat (Remetea Mare)
+Bulgarus
+Bulza
+Bunea Mare
+Bunea Mica
+Butin
+Buzad
+Buzias
+Cadar
+Calacea
+Capat
+Carani
+Carei
+Carpinis
+Cebza
+Cenad
+Cenei
+Cerna
+Cerneteaz
+Charlotenburg
+Checea
+Cheches
+Cheglevici
+Cherestur
+Cheveresu Mare
+Chisoda
+Chizatau
+Ciacova
+Ciresu
+Ciresu Mic
+Cladova
+Cliciova
+Clopodia
+Colonia Bulgara
+Colonia Fabricii
+Colonia Mica
+Comeat
+Comlosu Mare
+Comlosu Mic
+Cornesti
+Cosarii
+Cosava
+Cosevita
+Costeiu
+Costeiu de Sus
+Covaci
+Crai Nou
+Cralovat
+Criciova
+Crivina
+Crivina de Sus
+Crivobara
+Cruceni
+Curtea
+Cutina
+Darova
+Dejan
+Denta
+Deta
+Dinias
+Dobresti
+Dolat
+Dragoiesti
+Dragomiresti
+Dragsina
+Dragsinesti
+Drinova
+Dubesti
+Duboz
+Dudestii Noi
+Dudestii Vechi
+Dumbrava
+Dumbravita
+Fadimac
+Faget
+Farasesti
+Fardea
+Ferendia
+Fibis
+Ficatar
+Foeni
+Folea
+Gad
+Gaiu Mic
+Gataia
+Gavojdia
+Gelu
+Gherman
+Ghilad
+Ghiroda
+Ghizela
+Giarmata
+Giarmata-Vii
+Giera
+Giroc
+Giulvaz
+Gladna Montana
+Gladna Romana
+Gottlob
+Grabat
+Granicerii
+Grosi
+Gruni
+Hauzesti
+Herendesti
+Herneacova
+Hezeris
+Hisias
+Hitias
+Hodoni
+Hodos (Brestovat)
+Hodos (Darova)
+Homojdia
+Honorici
+Ianova
+Icloda
+Ictar-Budinti
+Iecea Mare
+Iecea Mica
+Iersnic
+Igris
+Iohanisfeld
+Ionel
+Iosif
+Iosifalau
+Ivanda
+Izvin
+Jabar
+Jamu Mare
+Jdioara
+Jebel
+Jena
+Jimbolia
+Jupanesti
+Jupani
+Juresti
+Lapusnic
+Latunas
+Lenauheim
+Leucusesti
+Liebling
+Lipova
+Livezile
+Lovrin
+Lucaret
+Lugoj
+Lugojel
+Luncanii de Jos
+Luncanii de Sus
+Lunga
+Macedonia
+Maguri
+Manastire
+Manastiur
+Mare
+Margina
+Masloc
+Matnicu Mic
+Moravita
+Mosnita Noua
+Mosnita Veche
+Murani
+Nadas
+Nadrag
+Nemesesti
+Nerau
+Nevrincea
+Nitchidorf
+Obad
+Ofsenita
+Ohaba Lunga
+Ohaba Romana
+Ohaba-Forgaci
+Olosag
+Opatita
+Ortisoara
+Otelec
+Otvesti
+Padurani
+Padureni (Jebel)
+Padureni (Victor Vlad Delamarina)
+Paniova
+Parta
+Partos
+Paru
+Peciu Nou
+Percosova
+Periam
+Pesac
+Petroasa Mare
+Petroman
+Petrovaselo
+Pietroasa
+Pini
+Pischia
+Poganesti
+Poieni
+Pordeanu
+Povargina
+Pustinis
+Rachita
+Racovita
+Radmanesti
+Rauti
+Recas
+Remetea Mare
+Remetea Mica
+Remetea-Lunca
+Romanesti
+Rovinita Mare
+Rovinita Mica
+Rudicica
+Rudna
+Sacalaz
+Saceni
+Sacosu Mare
+Sacosu Turcesc
+Sag
+Salbagel
+Salciua Noua
+Sanandrei
+Sandra
+Sangeorge
+Sanmartinu Maghiar
+Sanmartinu Sarbesc
+Sanmihaiu German
+Sanmihaiu Roman
+Sannicolau
+Sannicolau Mare
+Sanovita
+Sanpetru Mare
+Sanpetru Mic
+Saravale
+Sarazani
+Sarbova
+Satchinez
+Sculia
+Secas
+Seceani
+Semlacu Mare
+Semlacu Mic
+Silagiu
+Sinersig
+Sintar
+Sintesti
+Sipet
+Soca
+Soimos
+Spata
+Stamora Germana
+Stamora Romana
+Stanciova
+Stiuca
+Sudrias
+Surducu Mic
+Susani
+Sustra
+Tapia
+Targoviste
+Temeresti
+Teremia Mare
+Teremia Mica
+Tes
+Timisoara
+Tipari
+Toager
+Tomesti
+Tomnatic
+Topla
+Topolovatu Mare
+Topolovatu Mic
+Tormac
+Traian Vuia
+Uihei
+Uivar 1945
+Uliuc
+Unip
+Urseni
+Utvin
+Utvin
+Valcani
+Valea Lunga Romana
+Varias
+Victor Vlad Delamarina
+Visag
+Vizejdia
+Vizma
+Voiteg
+Vucova
+Zgribesti
+Zolt
+Zorani

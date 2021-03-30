@@ -1,0 +1,477 @@
+Adunati
+Albesti-Muru
+Albesti-Paleologu
+Albinari
+Alunis
+Antofiloaia
+Apostolache
+Aricestii Rahtivani
+Aricestii Zeletin
+Arionestii Noi
+Arionestii Vechi
+Arva
+Azuga
+Baba Ana
+Baicoi
+Balta Doamnei
+Baltesti
+Baltita
+Banesti
+Bara
+Baraitaru
+Barcanesti
+Barzila
+Batesti
+Batrani
+Belciug
+Berceni
+Bertea
+Bighilin
+Blejoi
+Bobicesti
+Boboci
+Bobolia
+Bodesti
+Bogdanesti
+Boldesti
+Boldesti-Gradistea
+Boldesti-Scaeni
+Bordeni
+Bordenii Mari
+Bordenii Mici
+Bosilcesti
+Bozieni
+Bradet
+Bratasanca
+Bratesti
+Brazi
+Brazii de Jos
+Brazii de Sus
+Breaza
+Breaza de Jos
+Breaza de Sus
+Brebu
+Brebu Manastirei
+Brebu Megiesesc
+Buchilasi
+Bucov
+Buda (Aricestii Rahtivani)
+Buda (Rafov)
+Bughea de Jos
+Bughea de Sus
+Bustenari
+Busteni
+Butuci
+Buzota
+Calinesti
+Calugareni
+Campina
+Cap Rosu
+Carbunari
+Carbunesti
+Carjari
+Cartierul Dambu
+Catina
+Catunu (Berceni)
+Catunu (Drajna)
+Ceptura
+Ceptura de Jos
+Ceptura de Sus
+Cerasu
+Cernesti
+Cheia
+Cherba
+Chesnoiu
+Chiciureni
+Chiojdeanca
+Chiritesti
+Chitorani
+Cioceni
+Ciocrac
+Ciorani
+Cioranii de Jos
+Cioranii de Sus
+Ciresanu
+Ciupelnita
+Coada Izvorului
+Coada Malului
+Coceana
+Cocorastii Caplii
+Cocorastii Colt
+Cocorastii Grind
+Cocorastii Mislii
+Cocosesti
+Colceag
+Colonia Brazi
+Coltu de Jos
+Comarnic
+Conduratu
+Corlatesti
+Cornu
+Cornu de Jos (Cornu)
+Cornu de Jos (Draganesti)
+Cornu de Sus (Cornu)
+Cornu de Sus (Dumbrava)
+Coserele
+Coslegi
+Cosmina de Jos
+Cosmina de Sus
+Cosminele
+Costeni
+Cotofenesti
+Crangurile
+Crivina
+Cuib
+Curcubeu
+Curmatura
+Dambu
+Darvari
+Ditesti
+Dobrota
+Doftana
+Draganeasa
+Draganesti
+Draghicesti
+Drajna
+Drajna de Jos
+Drajna de Sus
+Dumbrava
+Dumbravesti
+Ezeni
+Facaieni
+Faget
+Fagetu
+Fanari (Gherghita)
+Fanari (Gorgota)
+Fantanele
+Fefelei
+Filipestii de Padure
+Filipestii de Targ
+Floresti
+Frasinet
+Fulga
+Fulga de Jos
+Fulga de Sus
+Fundeni
+Gageni
+Galmeia
+Gavanel
+Gheaba
+Gherghita
+Ghighiu
+Ghinoaica
+Ghiocel
+Ghioldum
+Ghiosesti
+Glod
+Goga
+Gogeasca
+Gorgota
+Gornet
+Gornet-Cricov
+Goruna
+Gradistea
+Gresia
+Grosani
+Gura Beliei
+Gura Crivatului
+Gura Vadului
+Gura Vitioarei
+Habud
+Harsa
+Hatcarau
+Homoraciu
+Iazu
+Independenta
+Inotesti
+Iordacheanu
+Irimesti
+Izesti
+Izvoarele
+Izvoru
+Jercalai
+Jugureni
+Lacu Turcului
+Lapos
+Laposel
+Liliesti
+Lipanesti
+Livadea
+Loloiasca
+Lopatnita
+Lunca Mare
+Lunca Prahovei
+Lutu Rosu
+Magula
+Magura
+Magurele
+Magureni
+Malaestii de Jos
+Malaestii de Sus
+Malaiesti
+Malamuc
+Malu Rosu
+Malu Vanat
+Manastirea Suzana
+Maneciu
+Maneciu-Pamanteni
+Maneciu-Ungureni
+Manesti
+Marginea Padurii
+Marginenii de Jos
+Marlogea
+Maruntis
+Matita
+Mehedinta
+Melicesti
+Merdeala
+Meri
+Minieri
+Miresu Mare
+Miresu Mic
+Miroslavesti
+Mislea
+Mizil
+Moara
+Moara Domneasca
+Moara Noua
+Mocesti
+Nedelea
+Negoiesti
+Nevesteasca
+Nisipoasa
+Nistoresti
+Novacesti
+Nucet (Chiojdeanca)
+Nucet (Gornet)
+Nucsoara de Jos
+Nucsoara de Sus
+Ocina de Jos
+Ocina de Sus
+Odaile
+Ogretin
+Olari
+Olarii Vechi
+Ologeni
+Olteni
+Orzoaia de Jos
+Orzoaia de Sus
+Ostrovu
+Pacureti
+Pacuri
+Palanca
+Pantazi
+Parepa-Rusani
+Paulesti
+Paulestii Noi
+Persunari (Gura Vadului)
+Persunari (Manesti)
+Piatra (Drajna)
+Piatra (Manesti)
+Piatra (Provita de Jos)
+Piatra Mica
+Pietriceaua
+Pietricica
+Pietrisu
+Pietrosani
+Pioresti
+Pisculesti
+Pitigoi
+Plai
+Plaietu
+Plaiu (Provita de Sus)
+Plaiu (Talea)
+Plaiu Campinei
+Plaiu Cornului
+Plavia
+Pleasa
+Ploiesti
+Ploiestiori
+Plopeni
+Plopeni (Dumbravesti)
+Plopu
+Podenii Noi
+Podenii Vechi
+Podgoria
+Podu Cheii
+Podu Corbului
+Podu lui Galben
+Podu Lung
+Podu Ursului
+Podu Vadului
+Podu Valeni
+Podurile
+Poiana
+Poiana Campina
+Poiana Copaceni
+Poiana Mare
+Poiana Mierlei
+Poiana Tapului
+Poiana Trestiei
+Poiana Varbilau
+Poienarii Apostoli
+Poienarii Burchii
+Poienarii Vechi
+Poienarii-Rali
+Poienile
+Popesti (Brazi)
+Popesti (Podenii Noi)
+Posada
+Posesti
+Posestii-Pamanteni
+Posestii-Ungureni
+Potigrafu
+Prahova
+Prajani
+Predeal
+Predeal-Sarari
+Predesti
+Priseaca
+Provita de Jos
+Provita de Sus
+Puchenii Mari
+Puchenii Mici
+Puchenii-Mosneni
+Puscasi
+Rachieri
+Radila
+Rafov
+Ragman
+Rahova
+Romanesti
+Rotarea
+Rotari
+Salcia
+Salciile
+Salcioara
+Sangeru
+Sarari
+Saratel
+Sarca
+Satu de Sus
+Satu Nou (Baba Ana)
+Satu Nou (Lipanesti)
+Satucu
+Schela
+Schiau (Urlati)
+Schiau (Valea Calugareasca)
+Schiulesti
+Scorteni
+Scurtesti
+Secaria
+Seciu
+Seciuri
+Sfacaru
+Sfarleanca
+Sicrita
+Silistea
+Silistea Dealului
+Sinaia
+Sipotu
+Sirna
+Slanic
+Slavu
+Slon
+Soimari
+Soimesti
+Sotrile
+Stancesti
+Starchiojd
+Stefesti
+Stejaru
+Stoenesti
+Straosti
+Strejnic
+Strejnicu
+Stubeiu
+Surani
+Surdesti
+Talea
+Tantareni
+Tarculesti
+Targsoru Nou
+Targsoru Vechi
+Tariceni
+Tarlesti
+Tarsoreni
+Tatarai
+Tatarani
+Tataru
+Teisani
+Telega
+Tesila
+Tinosu
+Tintea
+Tiparesti
+Tisa
+Tohani
+Tomsani
+Tontesti
+Traisteni
+Trenu
+Trestienii de Jos
+Trestienii de Sus
+Trestioara
+Tufani
+Tufeni
+Tulburea
+Tulburea-Valeni
+Udresti
+Ulmi
+Ungureni (Fantanele)
+Ungureni (Filipestii de Targ)
+Ungureni (Gherghita)
+Urlati
+Urleta
+Vadu Parului
+Vadu Sapat
+Valcanesti
+Valcelele
+Valea Anei
+Valea Bobului
+Valea Borului
+Valea Bradetului
+Valea Bradului
+Valea Calugareasca
+Valea Crangului
+Valea Cricovului
+Valea Cucului
+Valea Doftanei
+Valea Dulce
+Valea Larga
+Valea Lespezii
+Valea Mantei
+Valea Mieilor
+Valea Nicovani
+Valea Nucetului
+Valea Oprii
+Valea Orlei
+Valea Pietrei
+Valea Plopului
+Valea Poienii
+Valea Popii
+Valea Scheilor
+Valea Screzii
+Valea Seaca
+Valea Seman
+Valea Stalpului
+Valea Stupinii
+Valea Tarsei
+Valea Tocii
+Valea Unghiului
+Valea Urloii
+Valea Ursoii
+Valenii de Munte
+Varbila
+Varbilau
+Varfurile
+Varnita
+Vistieru
+Vitioara de Sus
+x
+Zahanaua
+Zalhanaua
+Zambroaia
+Zamfira
+Zanoaga
+Zmeuret

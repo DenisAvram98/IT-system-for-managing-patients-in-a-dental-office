@@ -1,0 +1,491 @@
+Abucea
+Almasel
+Almas-Saliste
+Almasu Mic
+Almasu Mic de Munte
+Almasu Sec
+Alun (Bosorod)
+Alun (Bunila)
+Aninoasa
+Aranies
+Archia
+Ardeu
+Aurel Vlaicu
+Bacaia
+Bacea
+Bacia
+Baia de Cris
+Baiesti
+Baita
+Balata
+Baldovin
+Balomir
+Balsa
+Banita
+Banpotoc
+Barastii Hategului
+Barastii Iliei
+Barbura
+Barcea Mare
+Barcea Mica
+Barsau
+Baru
+Baru Mare
+Barza
+Basarabasa
+Bastea
+Batalar
+Batiz
+Batrana
+Bejan
+Bejan-Tarnavita
+Bercu
+Beriu
+Birtin
+Blajeni
+Blajeni-Vulcan
+Bobaia
+Bobalna
+Bocsa Mare
+Bocsa Mica
+Boholt
+Boia Barzii
+Boita
+Boiu
+Boiu de Jos
+Boiu de Sus
+Bos
+Bosorod
+Boz
+Bozes
+Brad
+Bradatel
+Branisca
+Braseu
+Brazi
+Braznic
+Breazova
+Bretea Muresana
+Bretea Romana
+Bretea Streiului
+Bretelin
+Brotuna
+Buces
+Buces-Vulcan
+Bucium
+Bucium-Orlea
+Bucuresci
+Bujoru
+Bulzestii de Jos
+Bulzestii de Sus
+Bunesti
+Bunila
+Burjuc
+Cabesti
+Cainelu de Jos
+Cainelu de Sus
+Calan
+Calanu Mic
+Campu lui Neag
+Campuri de Sus
+Campuri-Surduc
+Caoi
+Caraci
+Carastau
+Carjiti
+Carmazanesti
+Carnesti
+Carpinis
+Castau
+Cazanesti
+Cerbal
+Cerbia
+Cerisor
+Cernisoara Florese
+Certeju de Sus
+Certejul de Sus
+Cherghes
+Chimindia
+Chiscadaga
+Chitid
+Cigmau
+Cimpa
+Cincis-Cerna
+Cioclovina
+Ciopeia
+Ciula Mare
+Ciula Mica
+Ciulpaz
+Ciumita
+Ciungani
+Ciungu Mare
+Clopotiva
+Coaja
+Copaci
+Coroiesti
+Cosesti
+Costesti
+Costesti-Deal
+Covragiu
+Cozia
+Craciunesti
+Craguis
+Cris
+Crisan
+Criscior
+Cristur
+Criva
+Crivadia
+Cucuis
+Cuies
+Curechiu
+Curpenii Silvasului
+Cutin
+Dabaca
+Dalja Mare
+Dalja Mica
+Dancu Mare
+Dancu Mic
+Danulesti
+Dealu Babii
+Dealu Mare
+Dealu Mic
+Deleni
+Densus
+Deva
+Dobra
+Dobrot
+Dragu-Brad
+Dudesti
+Dumbrava
+Dumbrava de Jos
+Dumbrava de Sus
+Dumbravita
+Dumesti
+Dupapiatra
+Fagetel
+Fantana
+Farcadin
+Fata Rosie
+Federi
+Feregi
+Fintoag
+Fizes
+Fizesti
+Folt
+Fornadia
+Furcsoara
+Galati
+Galbina
+Gantaga
+Garan
+Gelmar
+General Berthelot
+Geoagiu
+Geoagiu-Bai
+Ghelari
+Gialacuta
+Giurgesti
+Glodghilesti
+Godinesti
+Goles
+Gotesti
+Gothatea
+Govajdia
+Gradistea de Munte
+Grid
+Grind
+Grohot
+Grohotele
+Gros
+Grosuri
+Gura Bordului
+Gurasada
+Harau
+Hartagani
+Hasdat
+Hasdau
+Hatagel
+Hateg
+Herepeia
+Hobita
+Hobita-Gradiste
+Holdea
+Homorod
+Hondol
+Hunedoara
+Ilia
+Iscroni
+Izvoarele
+Jeledinti
+Jiet
+Jiu-Paroseni
+Josani
+Lapugiu de Jos
+Lapugiu de Sus
+Lapusnic
+Lasau
+Leaut
+Lelese
+Lesnic
+Livada
+Livadia
+Livezeni
+Livezi
+Ludestii de Jos
+Ludestii de Sus
+Lunca (Baia de Cris)
+Lunca (Baita)
+Lunca Cernii de Jos
+Lunca Cernii de Sus
+Luncani
+Luncoiu de Jos
+Luncoiu de Sus
+Luncsoara
+Lupeni
+Maceu
+Mada
+Magura
+Magura-Toplita
+Magureni
+Malaiesti
+Manerau
+Martinesti
+Meria
+Merisor (Banita)
+Merisor (Bucuresci)
+Merisoru de Munte
+Mermezeu-Valeni
+Mesteacan (Brad)
+Mesteacan (Rachitova)
+Micanesti
+Mihaiesti
+Mihaileni
+Mintia
+Mosoru
+Muncelu Mare
+Muncelu Mic
+Nadastia de Jos
+Nadastia de Sus
+Nalatvad
+Nandru
+Negoiu
+Nojag
+Nucsoara
+Obarsa
+Ocisor
+Ociu
+Ocolisu Mare
+Ocolisu Mic
+Ohaba
+Ohaba de sub Piatra
+Ohaba Streiului
+Ohaba-Ponor
+Ohaba-Sibisel
+Oprisesti
+Orastie
+Orastioara de Jos
+Orastioara de Sus
+Ormindea
+Ostrov
+Ostrovel
+Ostrovu Mic
+Paclisa
+Panc
+Panc-Saliste
+Paros
+Paroseni
+Paucinesti
+Paulesti
+Paulis
+Pesteana
+Pestenita
+Pestera (Baita)
+Pestera (Petrosani)
+Pestera (Salasu de Sus)
+Pestisu Mare
+Pestisu Mic
+Petreni
+Petresti
+Petrila
+Petros
+Petrosani
+Piatra
+Pischinti
+Plai
+Plop
+Plopi
+Podele
+Poganesti
+Poiana
+Poiana Rachitelii
+Poieni (Beriu)
+Poieni (Densus)
+Poienita
+Poienita Tomii
+Poienita Voinii
+Pojoga
+Ponor
+Popesti
+Potingani
+Pravaleni
+Pricaz
+Prihodiste (Bosorod)
+Prihodiste (Vata de Jos)
+Pui
+Racastia
+Rachitaua
+Rachitova
+Radulesti
+Rapas
+Rapoltel
+Rapoltu Mare
+Rascoala
+Rau Alb
+Rau Barbat
+Rau de Mori
+Rau Mic
+Reea
+Renghet
+Ret
+Ribicioara
+Ribita
+Risca
+Risculita
+Romos
+Romosel
+Roscani
+Rosia
+Rovina (Branisca)
+Rovina (Bucuresci)
+Ruda
+Ruda-Brad
+Runcsor
+Runcu Mare
+Runcu Mic
+Rusesti
+Rusi
+Rusor
+Sacamas
+Sacaramb
+Sacel
+Salasu de Jos
+Salasu de Sus
+Salatruc
+Salciva
+Saliste
+Salistioara
+Sancrai
+Sanpetru
+Santamaria de Piatra
+Santamaria-Orlea
+Santandrei
+Santuhalm
+Sarbi
+Sarmizegetusa
+Saulesti
+Sereca
+Serel
+Sesuri
+Sibisel (Beriu)
+Sibisel (Rau de Mori)
+Silvasu de Jos
+Silvasu de Sus
+Simeria
+Simeria Veche
+Slatinioara
+Socet
+Sohodol
+Soimus
+Spini
+Stancesti
+Stancesti-Ohaba
+Stanculesti
+Stanija
+Stauini
+Stei
+Steia
+Stejarel
+Stoieneasa
+Strei
+Strei-Sacel
+Streisangeorgiu
+Stretea
+Subcetate
+Sulighete
+Suseni
+Tamasasa
+Tamasesti
+Tampa
+Taratel
+Tarnava
+Tarnava de Cris
+Tarnavita
+Tarnita
+Tarsa
+Tatarasti
+Tatarastii de Cris
+Tebea
+Techereu
+Teiu
+Teliucu Inferior
+Teliucu Superior
+Ticera
+Tirici
+Tisa
+Tiulesti
+Tomesti
+Tomnatec
+Toplita
+Toplita Muresului
+Totesti
+Totia
+Trestia
+Turdas
+Turmas
+Tustea
+Uibaresti
+Ulies
+Ulm
+Unciuc
+Uric
+Uricani
+Uroi
+Ursici
+Vadu
+Vadu Dobrii
+Vaidei
+Valari
+Valcele
+Valcelele Bune
+Valceluta
+Valea
+Valea Arsului
+Valea Babii
+Valea Bradului
+Valea Daljii
+Valea de Brazi
+Valea Lunga
+Valea Lupului
+Valea Mare de Cris
+Valea Nandrului
+Valea Poienii
+Valea Sangeorgiului
+Valeni (Baia de Cris)
+Valeni (Geoagiu)
+Valioara
+Valisoara
+Valisoara (Balsa)
+Varmaga
+Vata de Jos
+Vata de Sus
+Vetel
+Vica
+Visca
+Voia
+Vorta
+Vulcan
+Zam
+Zavoi
+Zdrapti
+Zeicani

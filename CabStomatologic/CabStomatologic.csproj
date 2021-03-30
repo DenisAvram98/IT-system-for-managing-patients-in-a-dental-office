@@ -1,0 +1,422 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D49379D9-16FD-4D9E-9B82-B5C3B8A8E477}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CabStomatologic</RootNamespace>
+    <AssemblyName>CabStomatologic</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=19.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Denis\Documents\ASP.NET AJAX Control Toolkit\Bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdaugaPacientNou.aspx" />
+    <Content Include="App_Data\CabinetStomatologic.mdf" />
+    <Content Include="App_Data\CabinetStomatologic_log.ldf">
+      <DependentUpon>CabinetStomatologic.mdf</DependentUpon>
+    </Content>
+    <Content Include="ConfirmareProgramari.aspx" />
+    <Content Include="ConsultatieNoua.aspx" />
+    <Content Include="ConsultatiiNeachitate.aspx" />
+    <Content Include="ContMedicPage.aspx" />
+    <Content Include="ContPacientAutentificare.aspx" />
+    <Content Include="ContPacientNou.aspx" />
+    <Content Include="ContPacientPage.aspx" />
+    <Content Include="ContReceptieAutentificare.aspx" />
+    <Content Include="gulpfile.js" />
+    <Content Include="Icons\Delete.png" />
+    <Content Include="Icons\Edit.png" />
+    <Content Include="Icons\save.JPG" />
+    <Content Include="Logare.aspx" />
+    <Content Include="OraseJudete\Alba.txt" />
+    <Content Include="OraseJudete\Arad.txt" />
+    <Content Include="OraseJudete\Argeş.txt" />
+    <Content Include="OraseJudete\Bacău.txt" />
+    <Content Include="OraseJudete\Bihor.txt" />
+    <Content Include="OraseJudete\Bistriţa-Năsăud.txt" />
+    <Content Include="OraseJudete\Botoşani.txt" />
+    <Content Include="OraseJudete\Braşov.txt" />
+    <Content Include="OraseJudete\Brăila.txt" />
+    <Content Include="OraseJudete\Bucureşti.txt" />
+    <Content Include="OraseJudete\Buzău.txt" />
+    <Content Include="OraseJudete\Caraş-Severin.txt" />
+    <Content Include="OraseJudete\Cluj.txt" />
+    <Content Include="OraseJudete\Constanţa.txt" />
+    <Content Include="OraseJudete\Covasna.txt" />
+    <Content Include="OraseJudete\Călăraşi.txt" />
+    <Content Include="OraseJudete\Dolj.txt" />
+    <Content Include="OraseJudete\Dâmboviţa.txt" />
+    <Content Include="OraseJudete\Galaţi.txt" />
+    <Content Include="OraseJudete\Giurgiu.txt" />
+    <Content Include="OraseJudete\Gorj.txt" />
+    <Content Include="OraseJudete\Harghita.txt" />
+    <Content Include="OraseJudete\Hunedoara.txt" />
+    <Content Include="OraseJudete\Ialomiţa.txt" />
+    <Content Include="OraseJudete\Iaşi.txt" />
+    <Content Include="OraseJudete\Ilfov.txt" />
+    <Content Include="OraseJudete\Maramureş.txt" />
+    <Content Include="OraseJudete\Mehedinţi.txt" />
+    <Content Include="OraseJudete\Mureş.txt" />
+    <Content Include="OraseJudete\Neamţ.txt" />
+    <Content Include="OraseJudete\Olt.txt" />
+    <Content Include="OraseJudete\Prahova.txt" />
+    <Content Include="OraseJudete\Satu Mare.txt" />
+    <Content Include="OraseJudete\Sibiu.txt" />
+    <Content Include="OraseJudete\Suceava.txt" />
+    <Content Include="OraseJudete\Sălaj.txt" />
+    <Content Include="OraseJudete\Teleorman.txt" />
+    <Content Include="OraseJudete\Timiş.txt" />
+    <Content Include="OraseJudete\Tulcea.txt" />
+    <Content Include="OraseJudete\Vaslui.txt" />
+    <Content Include="OraseJudete\Vrancea.txt" />
+    <Content Include="OraseJudete\Vâlcea.txt" />
+    <Content Include="PaginaPrincipalaMedic.aspx" />
+    <Content Include="PaginaPrincipalaReceptie.aspx" />
+    <Content Include="Poze dinti\11.png" />
+    <Content Include="Poze dinti\12.png" />
+    <Content Include="Poze dinti\13.png" />
+    <Content Include="Poze dinti\14.png" />
+    <Content Include="Poze dinti\15.png" />
+    <Content Include="Poze dinti\16.png" />
+    <Content Include="Poze dinti\17.png" />
+    <Content Include="Poze dinti\18.png" />
+    <Content Include="Poze dinti\21.png" />
+    <Content Include="Poze dinti\22.png" />
+    <Content Include="Poze dinti\23.png" />
+    <Content Include="Poze dinti\24.png" />
+    <Content Include="Poze dinti\25.png" />
+    <Content Include="Poze dinti\26.png" />
+    <Content Include="Poze dinti\27.png" />
+    <Content Include="Poze dinti\28.png" />
+    <Content Include="Poze dinti\31.png" />
+    <Content Include="Poze dinti\32.png" />
+    <Content Include="Poze dinti\33.png" />
+    <Content Include="Poze dinti\34.png" />
+    <Content Include="Poze dinti\35.png" />
+    <Content Include="Poze dinti\36.png" />
+    <Content Include="Poze dinti\37.png" />
+    <Content Include="Poze dinti\38.png" />
+    <Content Include="Poze dinti\41.png" />
+    <Content Include="Poze dinti\42.png" />
+    <Content Include="Poze dinti\43.png" />
+    <Content Include="Poze dinti\44.png" />
+    <Content Include="Poze dinti\45.png" />
+    <Content Include="Poze dinti\46.png" />
+    <Content Include="Poze dinti\47.png" />
+    <Content Include="Poze dinti\48.png" />
+    <Content Include="Programari.aspx" />
+    <Content Include="RadiografieNoua.aspx" />
+    <Content Include="RadiografiiPoze\rad1.jpg" />
+    <Content Include="RadiografiiPoze\rad10.jpg" />
+    <Content Include="RadiografiiPoze\rad11.jpg" />
+    <Content Include="RadiografiiPoze\rad12.png" />
+    <Content Include="RadiografiiPoze\rad13.jpg" />
+    <Content Include="RadiografiiPoze\rad14.jpg" />
+    <Content Include="RadiografiiPoze\rad2.png" />
+    <Content Include="RadiografiiPoze\rad3.jpg" />
+    <Content Include="RadiografiiPoze\rad4.jpg" />
+    <Content Include="RadiografiiPoze\rad5.jpg" />
+    <Content Include="RadiografiiPoze\rad6.jpg" />
+    <Content Include="RadiografiiPoze\rad7.jpg" />
+    <Content Include="RadiografiiPoze\rad8.jpg" />
+    <Content Include="RadiografiiPoze\rad9.jpg" />
+    <Content Include="StatusProgramari.aspx" />
+    <Content Include="thickbox.css" />
+    <Content Include="thickbox.js" />
+    <Content Include="TiparireChitanta.aspx" />
+    <Content Include="vendor\bootstrap\Asset 16.png" />
+    <Content Include="vendor\bootstrap\Asset 2.png" />
+    <Content Include="vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="vendor\jquery\jquery.js" />
+    <Content Include="vendor\jquery\jquery.min.js" />
+    <Content Include="vendor\jquery\jquery.slim.js" />
+    <Content Include="vendor\jquery\jquery.slim.min.js" />
+    <Content Include="VizualizareConsultatii.aspx" />
+    <Content Include="VizualizareFisaPacient.aspx" />
+    <Content Include="VizualizareFisaPacientMedic.aspx" />
+    <Content Include="VizualizareRadiografii.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdaugaPacientNou.aspx.cs">
+      <DependentUpon>AdaugaPacientNou.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdaugaPacientNou.aspx.designer.cs">
+      <DependentUpon>AdaugaPacientNou.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConfirmareProgramari.aspx.cs">
+      <DependentUpon>ConfirmareProgramari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConfirmareProgramari.aspx.designer.cs">
+      <DependentUpon>ConfirmareProgramari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultatieNoua.aspx.cs">
+      <DependentUpon>ConsultatieNoua.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConsultatieNoua.aspx.designer.cs">
+      <DependentUpon>ConsultatieNoua.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultatiiNeachitate.aspx.cs">
+      <DependentUpon>ConsultatiiNeachitate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConsultatiiNeachitate.aspx.designer.cs">
+      <DependentUpon>ConsultatiiNeachitate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContMedicPage.aspx.cs">
+      <DependentUpon>ContMedicPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContMedicPage.aspx.designer.cs">
+      <DependentUpon>ContMedicPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContPacientAutentificare.aspx.cs">
+      <DependentUpon>ContPacientAutentificare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContPacientAutentificare.aspx.designer.cs">
+      <DependentUpon>ContPacientAutentificare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContPacientNou.aspx.cs">
+      <DependentUpon>ContPacientNou.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContPacientNou.aspx.designer.cs">
+      <DependentUpon>ContPacientNou.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContPacientPage.aspx.cs">
+      <DependentUpon>ContPacientPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContPacientPage.aspx.designer.cs">
+      <DependentUpon>ContPacientPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContReceptieAutentificare.aspx.cs">
+      <DependentUpon>ContReceptieAutentificare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContReceptieAutentificare.aspx.designer.cs">
+      <DependentUpon>ContReceptieAutentificare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logare.aspx.cs">
+      <DependentUpon>Logare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Logare.aspx.designer.cs">
+      <DependentUpon>Logare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaPrincipalaMedic.aspx.cs">
+      <DependentUpon>PaginaPrincipalaMedic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaginaPrincipalaMedic.aspx.designer.cs">
+      <DependentUpon>PaginaPrincipalaMedic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaPrincipalaReceptie.aspx.cs">
+      <DependentUpon>PaginaPrincipalaReceptie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaginaPrincipalaReceptie.aspx.designer.cs">
+      <DependentUpon>PaginaPrincipalaReceptie.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrintPage.cs" />
+    <Compile Include="Programari.aspx.cs">
+      <DependentUpon>Programari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Programari.aspx.designer.cs">
+      <DependentUpon>Programari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadiografieNoua.aspx.cs">
+      <DependentUpon>RadiografieNoua.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RadiografieNoua.aspx.designer.cs">
+      <DependentUpon>RadiografieNoua.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StatusProgramari.aspx.cs">
+      <DependentUpon>StatusProgramari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StatusProgramari.aspx.designer.cs">
+      <DependentUpon>StatusProgramari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TiparireChitanta.aspx.cs">
+      <DependentUpon>TiparireChitanta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TiparireChitanta.aspx.designer.cs">
+      <DependentUpon>TiparireChitanta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VizualizareConsultatii.aspx.cs">
+      <DependentUpon>VizualizareConsultatii.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VizualizareConsultatii.aspx.designer.cs">
+      <DependentUpon>VizualizareConsultatii.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VizualizareFisaPacient.aspx.cs">
+      <DependentUpon>VizualizareFisaPacient.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VizualizareFisaPacient.aspx.designer.cs">
+      <DependentUpon>VizualizareFisaPacient.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VizualizareFisaPacientMedic.aspx.cs">
+      <DependentUpon>VizualizareFisaPacientMedic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VizualizareFisaPacientMedic.aspx.designer.cs">
+      <DependentUpon>VizualizareFisaPacientMedic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VizualizareRadiografii.aspx.cs">
+      <DependentUpon>VizualizareRadiografii.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VizualizareRadiografii.aspx.designer.cs">
+      <DependentUpon>VizualizareRadiografii.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include=".travis.yml" />
+    <Content Include="LICENSE" />
+    <Content Include="package-lock.json" />
+    <Content Include="package.json" />
+    <None Include="packages.config" />
+    <Content Include="README.md" />
+    <Content Include="vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.js.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="vendor\jquery\jquery.min.map" />
+    <Content Include="vendor\jquery\jquery.slim.min.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>3746</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:3746/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

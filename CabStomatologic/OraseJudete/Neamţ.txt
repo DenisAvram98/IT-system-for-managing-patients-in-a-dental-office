@@ -1,0 +1,364 @@
+Adjudeni
+Agapia
+Agapia-Manastire
+Agarcia
+Alexandru cel Bun
+Almas
+Aramesti
+Aramoaia
+Ardeluta
+Averesti
+Bahna
+Bahna Mare
+Bahnisoara
+Balanesti
+Baltatesti
+Balusesti (Girov)
+Balusesti (Icusesti)
+Baneasa
+Bara
+Baratca
+Barcanesti
+Bargauani
+Barjoveni
+Barnadu
+Barticesti
+Basta
+Batranesti
+Betesti
+Bicaz
+Bicaz-Chei
+Bicazu Ardelean
+Bisericani
+Bistricioara
+Bistrita
+Blebea
+Boboiesti
+Bodesti
+Bodestii de Jos
+Boghicea
+Bogzesti
+Boistea
+Borca
+Bordea
+Borlesti
+Bornis
+Borseni
+Botesti
+Bozieni
+Bozienii de Sus
+Bradu
+Brasauti
+Brates
+Breaza
+Britcani
+Brosteni
+Brusturi
+Brusturi-Draganesti
+Bucium
+Budesti
+Buhalnita
+Buhonca
+Bunghi
+Buruienesti
+Busmei
+Butnaresti
+Caciulesti
+Calugareni
+Candesti
+Capsa
+Carlig
+Carligi
+Casaria
+Causeni
+Cazaci
+Ceahlau
+Certieni
+Chicerea
+Chilia
+Chilii
+Chintinici
+Chiriteni
+Ciornei
+Ciritei
+Ciurea
+Climesti
+Cordun
+Corhana
+Corni
+Costisa
+Cotu Vames
+Cracaoani
+Cracaul Negru
+Craiesti
+Cuci
+Cuejdiu
+Curechistea
+Cut
+Damuc
+Danesti
+Darloaia
+David
+Davideni
+Deleni
+Doamna
+Dobreni
+Dochia
+Dodeni
+Doina
+Dolhesti
+Doljesti
+Dornesti
+Draganesti
+Dragomiresti
+Dragova
+Dreptu
+Dulcesti
+Dumbrava
+Dumbrava Rosie
+Dumbrava-Deal
+Durau
+Dusesti
+Farcasa
+Faurei
+Filioara
+Frumosu
+Frunzeni
+Gadinti
+Galu
+Garcina
+Ghelaiesti
+Gheraesti
+Gheraestii Noi
+Gherman
+Ghidion
+Ghigoiesti
+Ghindaoani
+Girov
+Giulesti
+Giurgeni
+Gorun
+Gosmani
+Grinties
+Grosi
+Grozavesti
+Grumazesti
+Gura Vaii
+Hamzoaia
+Hangu
+Hanul Ancutei
+Hartesti
+Hartop
+Hlapesti
+Hociungi
+Hoisesti
+Holm
+Homiceni
+Horia
+Huisurez
+Humulesti
+Humulestii Noi
+Icusesti
+Ingaresti
+Ion Creanga
+Itrinesti(Margineni)
+Iucsa
+Ivanes
+Izvoare (Bahna)
+Izvoare (Dumbrava Rosie)
+Izvoru
+Izvoru Alb
+Izvoru Muntelui
+Leghin
+Liliac
+Linsesti
+Luminis
+Lunca (Borca)
+Lunca (Oniceni)
+Lunca (Vanatori-Neamt)
+Lunca Moldovei
+Lutca
+Madei
+Magazia
+Manastirea Neamt
+Manoaia
+Margineni
+Marmureni
+Mastacan (Borlesti)
+Mastacan (Dragomiresti)
+Mesteacan
+Micsunesti
+Miron Costin
+Mitocu Balan
+Moldoveni
+Moreni
+Muncelu
+Muncelu de Jos
+Munteni
+Neagra
+Nechit
+Negresti (Bara)
+Negresti (Dobreni)
+Negritesti
+Negulesti
+Nemtisor
+Netezi
+Nisiporesti
+Nistria
+Oantu
+Oglinzi
+Oniceni
+Ortasti
+Oslobeni
+Padureni
+Pancesti
+Pangaracior
+Pangarati
+Paraul Carjei
+Paraul Fagului
+Paraul Mare
+Paraul Pantei
+Pastraveni
+Pataligeni
+Patricheni
+Petricani
+Petru Voda
+Piatra Soimului
+Piatra-Neamt
+Pietrosu
+Pildesti
+Pipirig
+Plaiesu
+Plugari
+Pluton
+Podoleni
+Poiana (Brusturi-Draganesti)
+Poiana (Dobreni)
+Poiana (Dulcesti)
+Poiana (Grinties)
+Poiana (Pangarati)
+Poiana Cracaoani
+Poiana Humei
+Poiana Largului
+Poiana Teiului
+Poienari
+Poieni
+Poienile Oancei
+Poloboc
+Popesti (Farcasa)
+Popesti (Girov)
+Potoci
+Prajesti
+Preluca
+Preutesti
+Pustieta
+Radeni
+Rasca
+Raucesti
+Razboieni
+Razboienii de Jos
+Recea
+Rediu
+Rediu (Bara)
+Rocna
+Roman
+Romani
+Roseni
+Rosiori
+Rotunda
+Roznov
+Ruginesti
+Ruginoasa
+Ruseni (Borlesti)
+Ruseni (Poiana Teiului)
+Sabaoani
+Sabasa
+Sacaleni
+Sacalusesti
+Sagna
+Sarata
+Savesti
+Savinesti
+Savinesti (Poiana Teiului)
+Scaricica
+Schitu Tarcau
+Secu
+Secuieni
+Secuienii Noi
+Silistea
+Simionesti
+Slobozia (Bara)
+Slobozia (Roznov)
+Socea
+Soci (Borca)
+Soci (Stefan cel Mare)
+Soimaresti
+Solca
+Sovoaia
+Spiesti
+Spiridonesti
+Stanca
+Stanita
+Stefan cel Mare
+Stejaru (Farcasa)
+Stejaru (Ion Creanga)
+Stejaru (Pangarati)
+Straja
+Tabara
+Talpa
+Talpalai
+Tamaseni
+Tarcau
+Tardenii Mici
+Targu Neamt
+Tarpesti
+Tarzia
+Tasca
+Tazlau
+Telec
+Tetcani
+Tibucani
+Tibucani de Sus
+Tibucanii de Jos
+Ticos
+Ticos-Floarea
+Timisesti
+Todireni
+Tolici
+Topoliceni
+Topolita
+Totoiesti
+Traian (Sabaoani)
+Traian (Zanesti)
+Trei Fantani
+Trifesti
+Tupilati
+Turturesti
+Tutcanii din Deal
+Tutcanii din Vale
+Uncesti
+Ungheni
+Unghi
+Urecheni
+Vad
+Vadurele (Alexandru cel Bun)
+Vadurele (Candesti)
+Vaduri
+Valea Alba
+Valea Arini
+Valea Enei
+Valea Mare
+Valea Seaca
+Valea Ursului
+Valeni (Botesti)
+Valeni (Piatra-Neamt)
+Vanatori-Neamt
+Varatec
+Veja
+Versesti
+Viisoara
+Vladiceni
+Vladnicele
+Vulpasesti
+Zanesti
+Zvoranesti

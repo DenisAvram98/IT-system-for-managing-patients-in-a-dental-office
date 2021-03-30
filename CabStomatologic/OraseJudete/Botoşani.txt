@@ -1,0 +1,346 @@
+Adaseni
+Agafton
+Alba
+Albesti
+Arborea
+Aurel Vlaicu
+Avram Iancu
+Avrameni
+Babiceni
+Badarai
+Badiuti
+Baiceni
+Baisa
+Bajura
+Balinti
+Balta Arsa
+Baluseni
+Balusenii Noi
+Baranca (Cristinesti)
+Baranca (Hudesti)
+Barsanesti
+Batranesti
+Belcea
+Berza
+Bivolari
+Blandesti
+Bobulesti
+Bodeasa
+Bogdanesti
+Bohoghina
+Bold
+Borolea
+Borzesti
+Boscoteni
+Botosani
+Bozieni
+Braesti
+Brateni
+Brehuiesti
+Broscauti
+Brosteni
+BUCECEA
+Buda
+Buhaceni
+Buimaceni
+Burla
+Burlesti
+Buzeni
+Calarasi
+Calinesti (Bucecea)
+Calinesti (Mihaileni)
+Calugareni
+Calugarenii Noi
+Campeni
+Candesti
+Caraiman
+Carasa
+Catamaresti
+Catamaresti-Deal
+Cerbu
+Cerchejeni
+Cernesti
+Cervicesti
+Cervicesti-Deal
+Chelis
+Chiscareni
+Chitoveni
+Cinghiniia
+Ciritei
+Cismanesti
+Cismea
+Codreni
+Concesti
+Copalau
+Cordareni
+Corjauti
+Corlateni
+Corni
+Costesti
+Costinesti
+Costiugeni
+Cosula
+Cosuleni
+Cotargaci
+Cotu
+Cotu Miculinti
+Cotusca
+Crasnaleuca
+Cristesti
+Cristinesti
+Cucorani
+Cucuteni
+Curtesti-Oraseni
+Cuza Voda
+Cuzlau
+Dacia
+Damideni
+Damileni(Cristinesti)
+Dangeni
+Darabani
+Davidoaia
+Dealu Crucii
+Dealu Mare
+Dersca
+Dimacheni
+Dimitrie Cantemir
+Dobarceni
+Doina
+Dolina
+Dorobanti
+Dorohoi
+Dracsani
+Dragalina (Cristinesti)
+Dragalina (Hlipiceni)
+Draguseni
+Draxini
+Drislea
+Dumbravita
+Dumeni
+Durnesti
+Durnesti (Santa Mare)
+Durnesti (Ungureni)
+Esanca
+Fantanele
+Flamanzi
+Flondora
+Floresti
+Frumusica
+Fundu Hertii
+Galbeni
+Garbeni
+Garbesti
+George Cosbuc
+George Enescu
+Ghireni
+Gorbanesti
+Gorovei
+Grivita
+Guranda
+Hanesti
+Havarna
+Hiliseu-Closca
+Hiliseu-Crisan
+Hiliseu-Horia
+Hlipiceni
+Horia
+Horlaceni
+Horodistea
+Hriscani
+Hudesti
+Hudum
+Hulub
+Hulubesti
+Hutani
+Iacobeni
+Ibaneasa
+Ibanesti
+Ichimeni
+Icuseni
+Iezer
+Iliseni
+Ionaseni (Trusesti)
+Ionaseni (Varfu Campului)
+Iorga
+Ipotesti
+Iuresti
+Izvoare
+Jijia
+Joldesti
+Lehnesti
+Leorda
+Libertatea
+Lismanita
+Lisna
+Livada
+Liveni
+Loturi
+Loturi Enescu
+Lozna
+Lunca
+Lunca (Varfu Campului)
+Luparia
+Manastirea Doamnei
+Manastireni
+Mandresti (Ungureni)
+Mandresti (Vladeni)
+Manoleasa
+Manoleasa-Prut
+Manolesti
+Mascateni
+Mateieni
+Mesteacan
+Mihai Eminescu
+Mihai Eminescu (Gorbanesti)
+Mihai Viteazu
+Mihail Kogalniceanu
+Mihaileni
+Mihalaseni
+Mileanca
+Miletin
+Miorcani
+Miron Costin
+Mitoc
+Mitoc (Leorda)
+Mlenauti
+Moara Jorii
+Movila Rupta
+Movileni
+Murguta
+Nastase
+Negreni
+Negresti
+Nichiteni
+Nicolae Balcescu (Cotusca)
+Nicolae Balcescu (Flamanzi)
+Nicseni
+Niculcea
+Oneaga
+Oraseni-Deal
+Oraseni-Vale
+Oroftiana
+Padureni (Copalau)
+Padureni (Sendriceni)
+Paltinis
+Panaitoaia
+Parau Negru
+Pasateni
+Paun
+Petricani
+Plesani
+Plevna
+Plopenii Mari
+Plopenii Mici
+Podeni
+Podriga
+Pogorasti
+Poiana (Braesti)
+Poiana (Cristinesti)
+Poiana (Flamanzi)
+Poiana (Vorona)
+Pomarla
+Popeni (Braesti)
+Popeni (George Enescu)
+Popoaia
+Prajeni
+Prisacani
+Progresul
+Putureni
+Rachiti
+Racovat
+Radauti-Prut
+Radeni
+Ranghilesti
+Ranghilesti-Deal
+Rasca
+Rauseni
+Recia-Verbia
+Rediu (Radauti-Prut)
+Rediu (Rauseni)
+Ripiceni
+Ripicenii Vechi
+Rogojesti
+Roma
+Romanesti
+Romanesti-Vale
+Rosiori
+Sadoveni
+Santa Mare
+Sarafinesti
+Sarata
+Sarata-Basarab
+Sarata-Draguseni
+Sarbi
+Sat Nou
+Saucenita
+Saveni
+Schit-Oraseni
+Scutari
+Selistea
+Sendreni
+Sendriceni
+Serpenita
+Siliscani
+Silistea
+Slobozia (Broscauti)
+Slobozia (Paltinis)
+Slobozia Hanesti
+Slobozia Siliscani
+Smardan
+Socrujeni
+Soldanesti
+Soroceni
+Stanca (George Enescu)
+Stanca Costesti
+Stancesti
+Stauceni
+Stefanesti
+Stefanesti-Sat
+Stefanesti-Stanca
+Stiubieni
+Stolniceni
+Storesti
+Strahotin
+Strateni
+Stroiesti
+Suharau
+Sulita
+Supitca
+Talpa
+Tataraseni
+Tautesti
+Timus
+Tocileni
+Todireni
+Trusesti
+Tudor Vladimirescu (Albesti)
+Tudor Vladimirescu (Avrameni)
+Tudora
+Ungureni
+Unguroaia
+Unteni
+Vaculesti
+Valcelele
+Valea Grajdului
+Vanatori
+Varfu Campului
+Vicoleni
+Victoria (Hlipiceni)
+Victoria (Stauceni)
+Viforeni
+Viisoara
+Viisoara Mica
+Vitcani
+Vladeni
+Vladeni (Corlateni)
+Vladeni-Deal
+Vlasinesti
+Vorniceni
+Vorona
+Vorona Mare
+Vorona-Teodoru
+Vultureni
+Zahoreni
+Zaicesti
+Zlatunoaia
+Zoitani

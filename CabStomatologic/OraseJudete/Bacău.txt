@@ -1,0 +1,510 @@
+Agas
+Agas sat Simbrea
+Albele
+Antohesti
+Apa Asau
+Ardeoani
+Arini
+Asau
+Bacau
+Bacioiu
+Baclesti
+Bahna
+Bahnaseni
+Baimac
+Balaia
+Balaneasa
+Balanesti (Dealu Morii)
+Balanesti (Podu Turcului)
+Balca
+Balcani
+Balotesti
+Baltata
+Balusa
+Banca
+Barati
+Barboasa
+Barcana
+Barna
+Barnesti
+Barsanesti
+Bartasesti
+Barzulesti
+Basasti
+Bazga
+Belciuneasa
+Beleghet
+Benesti
+Berbinceni
+Beresti
+Beresti-Bistrita
+Beresti-Tazlau
+Berzunti
+Bibiresti
+Bijghir
+Blaga
+Blagesti
+Blidari
+Boanta
+Bobos
+Bodeasa
+Bogata
+Bogdan Voda
+Bogdana
+Bogdanesti
+Bogdanesti (Scorteni)
+Bogdanesti (Traian)
+Boistea
+Boistea de Jos
+Bolatau
+Bolovanis
+Borsani
+Borzesti
+Bosia
+Bosoteni
+Bostanesti
+Bota
+Botesti
+Brad (Beresti-Bistrita)
+Brad (Filipeni)
+Brad (Negri)
+Bratesti
+Bratila
+Brusturoasa
+Buchila
+Buciumi
+Bucsa
+Bucsesti
+Buda (Berzunti)
+Buda (Blagesti)
+Buda (Rachitoasa)
+Budesti
+Buhocel
+Buhoci
+Buhusi
+Burdusaci
+Buruienis
+Buruienisu de Sus
+Cabesti
+Cadaresti
+Caiuti
+Calapodesti
+Calcai
+Calinesti
+Calini
+Calugareni
+Camenca
+Campeni
+Capata
+Capotesti
+Caraclau
+Carligi
+Casin
+Cauia
+Cerdac
+Cernu
+Cetatuia
+Chetreni
+Chetris
+Chicerea
+Chilia Benei
+Chiticeni
+Ciobanus
+Ciresoaia
+Ciucani
+Ciughes
+Ciumasi
+Ciuturesti
+Cleja
+Climesti
+Cociu
+Colonesti
+Coman
+Comanesti
+Contesti
+Corbasca
+Cornatel
+Cornatelu
+Cornesti
+Cornet
+Cornii de Jos
+Cornii de Sus
+Cosnea
+Costei
+Coteni
+Cotofanesti
+Cotu Grosului
+Cotumba
+Craiesti
+Crihan
+Cuchinis
+Cucova
+Cucuieti (Dofteana)
+Cucuieti (Solont)
+Curita
+Dadesti
+Damienesti
+Danaila
+Darmaneasca
+Darmanesti
+Dealu Mare
+Dealu Morii
+Dealu Perjului
+Deleni
+Diaconesti
+Dienet
+Dofteana
+Dorneni (Plopana)
+Dorneni (Vultureni)
+Dorofei
+Dospinesti
+Dragesti (Damienesti)
+Dragesti (Tatarasti)
+Dragomir
+Dragugesti
+Dragusani
+Dumbrava (Beresti-Bistrita)
+Dumbrava (Gura Vaii)
+Dumbrava (Rachitoasa)
+Enachesti
+Faget
+Fagetel
+Fagetu de Sus
+Faghieni
+Fantanele (Hemeius)
+Fantanele (Motoseni)
+Faraoani
+Farcasa
+Ferestrau-Oituz
+Fichitesti
+Filipeni
+Filipesti
+Filipesti (Bogdanesti)
+Floresti (Caiuti)
+Floresti (Huruiesti)
+Floresti (Scorteni)
+Frumoasa
+Frumuselu
+Fruntesti
+Fulgeris
+Fundatura
+Fundatura Rachitoasa
+Fundeni
+Fundoaia
+Fundu Racaciuni
+Fundu Tutovei
+Fundu Vaii
+Furnicari
+Gaiceana
+Galbeni (Filipesti)
+Galbeni (Nicolae Balcescu)
+Galeri
+Garla Anei
+Garleni
+Garlenii de Sus
+Gasteni
+Gazarie
+Gheorghe Doja
+Gherdana
+Ghilavesti
+Ghimes
+Ghimes-Faget
+Ghionoaia
+Gioseni
+Giurgeni
+Giurgioana
+Glavanesti
+Glodisoarele
+Godinestii de Jos
+Godinestii de Sus
+Goioasa
+Gorghesti
+Gradesti
+Grigoreni
+Gura Craiesti
+Gura Vaii
+Gura Vaii (Racova)
+Gutinas
+Haghiac (Dofteana)
+Haghiac (Rachitoasa)
+Haineala
+Halmacioaia
+Hanganesti
+Hanta
+Harja
+Harlesti
+Helegiu
+Heltiu
+Hemeius
+Hertioana de Jos
+Hertioana-Razesi
+Holt
+Horgesti
+Huruiesti
+Hutu
+Iaz
+Iliesi
+Itcani
+Itesti
+Izvoru Berheciului
+Lapos
+Larga
+Larguta
+Lehancea
+Leontinesti
+Lespezi
+Letea Veche
+Lichitiseni
+Lilieci
+Lipova
+Livezi
+Ludasi
+Luizi-Calugara
+Lunca Asau
+Lunca Dochiei
+Luncani
+Lupesti
+Magazia
+Magiresti
+Magla
+Magura
+Malosu
+Manastirea Casin
+Marascu
+Marasti
+Marcesti
+Marginea (Buhusi)
+Marginea (Oituz)
+Margineni
+Marvila
+Mateiesti
+Medeleni
+Milestii de Jos
+Milestii de Sus
+Misihanesti
+Moinesti
+Motoc
+Motocesti
+Motoseni
+Movilita
+Muncelu
+Nadisa
+Nanesti
+Nastaseni
+Nazarioaia
+Negoiesti
+Negreni
+Negri
+Negulesti
+Neguseni
+Nicolae Balcescu
+Nicoresti
+Obarsia
+Ocheni
+Odobesti
+Oituz
+Oncesti
+Oncestii Vechi
+Onesti
+Oniscani
+Oprisesti
+Orasa
+Orbeni
+Osebiti
+Otelesti
+Padureni (Beresti-Bistrita)
+Padureni (Damienesti)
+Padureni (Filipeni)
+Padureni (Izvoru Berheciului)
+Padureni (Margineni)
+Pagubeni
+Pajistea
+Palanca
+Paltinata
+Paltinis
+Pancesti
+Parau Boghii
+Parava
+Pargaresti
+Parincea
+Parjol
+Parvulesti
+Perchiu
+Petresti
+Petricica
+Plopana
+Plopu (Darmanesti)
+Plopu (Podu Turcului)
+Podei
+Podis
+Podu Turcului
+Poduri
+Poglet
+Poiana (Colonesti)
+Poiana (Livezi)
+Poiana (Margineni)
+Poiana (Motoseni)
+Poiana (Negri)
+Poiana Negustorului
+Poiana Sarata
+Poieni (Parincea)
+Poieni (Rosiori)
+Poieni (Targu Ocna)
+Popeni
+Popesti
+Popoiu
+Pradais
+Praja
+Prajesti (Magiresti)
+Prajesti (Traian)
+Prajoaia
+Pralea
+Preluci
+Prisaca
+Prohozesti
+Pustiana
+Putini
+Putredeni
+Racaciuni
+Racatau de Jos
+Racatau-Razesi
+Racauti
+Rachitis
+Rachitisu
+Rachitoasa
+Racova
+Racusana
+Radeana
+Radoaia
+Radomiresti
+Rastoaca
+Razesu
+Recea
+Reprivat
+Rogoaza
+Romanesti
+Rosiori
+Rotaria
+Runcu
+Rusenii de Sus
+Rusenii Razesi
+Rusi-Ciutea
+Salatruc
+Sanduleni
+Sarata (Nicolae Balcescu)
+Sarata (Solont)
+Sarbi
+Sascut
+Sascut-Sat
+Satu Nou (Colonesti)
+Satu Nou (Lipova)
+Satu Nou (Oncesti)
+Satu Nou (Pargaresti)
+Satu Nou (Parincea)
+Satu Nou (Urechesti)
+Saucesti
+Scariga
+Scarisoara
+Schineni (Sascut)
+Schineni (Saucesti)
+Schitu Frumoasa
+Scorteni
+Scurta
+Scutaru
+Seaca
+Secuieni
+Sendresti
+Serbesti
+Serpeni
+Sesuri
+Siretu (Letea Veche)
+Siretu (Saucesti)
+Slanic Moldova
+Slobozia (Filipeni)
+Slobozia (Onesti)
+Slobozia (Stanisesti)
+Slobozia (Urechesti)
+Slobozia Noua
+Soci
+Sohodol
+Sohodor
+Solont
+Somusca
+Spria
+Stanesti
+Stanisesti
+Stefan cel Mare
+Stefan Voda
+Stejaru
+Straja
+Straminoasa
+Strugari
+Stufu
+Sulta
+Surina
+Tagara
+Tamasi
+Tamasoaia
+Tarata
+Tardenii Mari
+Targu Ocna
+Targu Trotus
+Tarhausi
+Tarnita
+Tatarasti
+Taula
+Tavadaresti
+Teius
+Temelia
+Tepoaia
+Tescani
+Tiganesti
+Tisa
+Tisa-Silvestri
+Tochilea
+Tomozia
+Traian
+Trebes
+Turluianu
+Tuta
+Ungureni
+Ungureni (Tatarasti)
+Urechesti
+Ursoaia
+Valcele (Corbasca)
+Valcele (Targu Ocna)
+Valea Arinilor
+Valea Botului
+Valea Budului
+Valea Caselor
+Valea Fanatului
+Valea Hogei
+Valea lui Ion
+Valea Lupului
+Valea Mare (Colonesti)
+Valea Mare (Rosiori)
+Valea Marului
+Valea Merilor
+Valea Mica (Cleja)
+Valea Mica (Rosiori)
+Valea Mosneagului
+Valea Nacului
+Valea Salciei
+Valea Seaca
+Valea Seaca (Nicolae Balcescu)
+Valea Sosii
+Valeni (Parincea)
+Valeni (Secuieni)
+Valeni (Stanisesti)
+Vermesti
+Versesti
+Viforeni
+Viisoara (Stefan cel Mare)
+Viisoara (Targu Trotus)
+Vladnic
+Vranceni
+Vultureni
+Zapodia (Colonesti)
+Zapodia (Traian)
+Zemes
+Zlatari
